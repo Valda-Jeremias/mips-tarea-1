@@ -1,3 +1,6 @@
+// multiplos.c
+// imprime los multiplos de 3 o de 5 (o de ambos)
+// para los primeros 100 numeros naturales
 #include <stdio.h>
 
 int main() {
